@@ -1,0 +1,12 @@
+De acordo com os requisitos listados pelo proprietário do Hortifruti pesquisado (HortiFruti MP), são eles: 
+
+1. Gerenciamento de Estoque:
+- Registrar o dia da chegadas dos produtos;
+- Qual a data de validade de cada lote;
+- Quantidade do produto que ainda possui no estoque, se tiver bastante e próximo da data de validade, considerar promoções;
+
+2. Feedback dos clientes sobre os produtos:
+- Qualidade do produto fornecido pelo Hortifruti;
+- Localização dos produtos dentro do estabelicimento;
+- Qualidade do atendimento;
+
