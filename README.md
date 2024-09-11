@@ -6,6 +6,6 @@
  <ul>
   <li>Product BackLog</li>
   <li>Sprint BackLog</li>
-  <li>Increment</li>
+  <li>Sprint Planniing</li>
 
 </ul>
