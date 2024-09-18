@@ -4,8 +4,8 @@
  </h2>
 
  <ul>
-  <li>Product BackLog</li>
-  <li>Sprint BackLog</li>
-  <li>Sprint Planniing</li>
+  <li>Product BackLog.</li>
+  <li>Sprint BackLog.</li>
+  <li>Sprint Planniing.</li>
 
 </ul>
