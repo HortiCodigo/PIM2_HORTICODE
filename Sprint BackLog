@@ -14,3 +14,23 @@ Dev team (Arthur, André, Dênnis, Eduardo, Gabriel e Gustavo):
     - Desenvolver o projeto;
     - Teste e manutenção do sistema;
     - Fazer a documentação eventualmente; 
+
+Abaixo contem, os processos que ocorrem iram ocorrer no HortiCode.
+
+1. PRIMEIRA SPRINT: CADASTRO DE PRODUTOS
+PERIODO: 2 semanas;
+RESPONSÁVEL : André;
+
+Objeto principal: André sera responsável por implementar o cadastro dos produtos afim de criar o nosso controle do que há
+no HortiCode;
+
+Tarefa no processo:
+    - Criação de um formulario para o administrador inserir e listar produtos;
+    - Validar os dados que irão conter como (nome , preço , quantidade);
+    - Também garantir que funcione como o esperado;
+
+APROVAÇÃO SERA FEITA PELO ADMNISTRADOR QUE IRA CADASTRAR E VALIDAR PRODUTOS, CASO OCORRA TUDO BEM, ESTA APROVADO 
+
+
+
+
