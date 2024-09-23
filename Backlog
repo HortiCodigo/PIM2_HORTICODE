@@ -1,22 +1,34 @@
-Criação do BackLog para um Hortifruti.
+Breve descrição das materias ultilizadas para a criação do sistema para o hortifruti
+1. Linguagem e Técnicas de Programação:
+A implementação do sistema de gerenciamento de estoque depende principalmente de técnicas de linguagem e programação. 
+Para desenvolver uma interface eficiente e simples, ela ajuda a decidir quais linguagens e frameworks são mais adequados. 
+além de trabalhar para otimizar o código para garantir que o sistema funcione bem no dia a dia do Hortifruti.
 
-  1. Linguagem e Técnicas de Programação:
-    - Criação de um Sistema para o Hortifruti com os seguintes requistos
+2. Fundamentos de Redes, Dados e Comunicação:
+Os fundamentos de redes e dados fornecem informações sobre como armazenar e transmitir dados de forma eficaz
+Essa disciplina ajuda os sistemas de gerenciamento de estoque a entender como os dados de produtos serão armazenados, 
+acessados e compartilhados entre vários pontos de controle, caso o sistema seja distribuído.
 
-  . Gerenciamento de Estoque:
-    Um sistema que irá gerenciar a entrada e saída de produtos.
+3. Engenharia de Software I:
+As ferramentas e metodologias necessárias para construir um sistema de gerenciamento de estoque estão disponíveis em Engenharia de Software I. 
+A disciplina ajuda na construção da arquitetura do sistema, na implementação de funcionalidades, como a interface de registro de produtos e controle de quantidades, 
+e na integração de módulos para facilitar a interação do usuário com o sistema.
 
-  .Linguagens utilizadas:
-    Ferramentas utilizadas para a contrução do sistema.
+4. Metodologia Científica:
+A metodologia científica é essencial porque fornece as bases para a estruturação do projeto,
+desde a formulação do problema até a análise dos resultados. Essa disciplina é utilizada na pesquisa de mercado, 
+na análise de dados coletados dos clientes e no desenvolvimento de soluções baseadas em evidências para melhorar a gestão de um Hortifruti.
 
-  .
+5. Legislação e Ética Profissional:
+A ética e a legislação profissional garantem que as práticas de atendimento ao cliente e gerenciamento de estoque estejam em conformidade com os padrões éticos e legais. 
+Ela garante que as promoções sejam éticas e que o projeto do sistema de gerenciamento de produtos e as interações com o cliente sigam princípios éticos.
 
-  2. Engenharia de Software: 
-    - Definição e estruturação do projeto em geral
+6. Educação Ambiental:
+A avaliação dos produtos do Hortifruti depende principalmente da educação ambiental, principalmente em relação à sua sustentabilidade. 
+Essa disciplina ajuda a considerar os impactos ambientais na escolha e descarte de produtos 
+e inspira práticas mais ecológicas, o que pode melhorar a percepção dos clientes sobre a qualidade dos produtos.
 
-  .Levantamento dos requisitos solicitados pelo propietário:
-    O que o propietário julga necessário para um melhor funcionamento do estabelecimento.
-
-  .Organização dos Desenvolvedores e Datas importantes:
-    Criação de metas pequenas para a entrega do projeto
-  
+7. Matemática para Computação :
+Algoritmos para o cálculo de estoques mínimos, controle de quantidades e monitoramento de produtos próximos 
+à validade são desenvolvidos com a ajuda da disciplina de matemática para computação. 
+A modelagem matemática também pode ser usada para calcular promoções ou encontrar padrões de consumo no Hortifruti, tornando a gestão de recursos mais eficaz.
