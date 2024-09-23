@@ -1,14 +1,22 @@
-De acordo com os requisitos listados pelo proprietário do Hortifruti pesquisado (HortiFruti MP), são eles: 
+Criação do BackLog para um Hortifruti.
 
-1. Gerenciamento de Estoque:
-- Registrar o dia da chegadas dos produtos;
-- Qual a data de validade de cada lote;
-- Quantidade do produto que ainda possui no estoque, se apresentar estoque sobrando e próximo da data de validade, considerar promoções;
-- Registro de produtos, já com preço de venda e preço de compra;
-- Quantidade miníma de cada produto;
-- Interface simples no console para interação do usuário.
+  1. Linguagem e Técnicas de Programação:
+    - Criação de um Sistema para o Hortifruti com os seguintes requistos
 
-2. Feedback dos clientes sobre os produtos:
-- Qualidade do produto fornecido pelo Hortifruti;
-- Localização dos produtos dentro do estabelecimento;
-- Qualidade do atendimento; 
+  . Gerenciamento de Estoque:
+    Um sistema que irá gerenciar a entrada e saída de produtos.
+
+  .Linguagens utilizadas:
+    Ferramentas utilizadas para a contrução do sistema.
+
+  .
+
+  2. Engenharia de Software: 
+    - Definição e estruturação do projeto em geral
+
+  .Levantamento dos requisitos solicitados pelo propietário:
+    O que o propietário julga necessário para um melhor funcionamento do estabelecimento.
+
+  .Organização dos Desenvolvedores e Datas importantes:
+    Criação de metas pequenas para a entrega do projeto
+  
